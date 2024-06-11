@@ -44,7 +44,7 @@ Pastikan Anda telah menginstal:
 
 1. **Kloning Repository**:
     ```bash
-    git clone [https://github.com/your-repo/crud-firebase](https://github.com/Wira07/Crud-Firebase)
+    git clone (https://github.com/Wira07/Crud-Firebase)
     cd crud-firebase
     ```
 
