@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "250579353812",
+    "firebase_url": "https://crud-firebase2-985b3-default-rtdb.firebaseio.com",
+    "project_id": "crud-firebase2-985b3",
+    "storage_bucket": "crud-firebase2-985b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250579353812:android:a41564ee4cd6b1c0163b41",
+        "android_client_info": {
+          "package_name": "com.wira_fkom.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaCx7eGB-0s3lL1qA6VWrVyACUfEb1EQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

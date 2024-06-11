@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Crud-Firebase</string>
+    <array name="JA">
+        <item>Asisten Ahli</item>
+        <item>Lektor 200</item>
+        <item>Lektor 300</item>
+        <item>Lektor Kepala</item>
+        <item>Profesor</item>
+    </array>
+</resources>
