@@ -21,9 +21,6 @@ Selamat datang di Aplikasi CRUD Firebase! Proyek ini mengintegrasikan aplikasi A
 ### Informasi Klien Android
 - **Nama Paket**: `com.wira_fkom.crud_firebase`
 
-### Kunci API
-- **Kunci Saat Ini**: `AIzaSyDaCx7eGB-0s3lL1qA6VWrVyACUfEb1EQ8`
-
 ## Layanan 🚀
 
 ### Layanan Undangan Aplikasi
@@ -47,7 +44,7 @@ Pastikan Anda telah menginstal:
 
 1. **Kloning Repository**:
     ```bash
-    git clone https://github.com/your-repo/crud-firebase
+    git clone [https://github.com/your-repo/crud-firebase](https://github.com/Wira07/Crud-Firebase)
     cd crud-firebase
     ```
 
